@@ -1,0 +1,23 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rps.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanglu1/game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanglu1/game/issues"
+  },
+  "homepage": "https://github.com/fanglu1/game#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "type": "module"
+}
