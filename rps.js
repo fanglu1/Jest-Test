@@ -50,7 +50,7 @@ export function playRound(player1,player2) {
 return result
 }
 
-console.log(playRound(player1,player2));
+// console.log(playRound(player1,player2));
 
 export function playGame (player1, player2, playUntil){
 let player1Wins = 0
@@ -73,7 +73,7 @@ if (player1Wins === playUntil) {
     return player2;
 }
 }
-console.log(playGame(player1,player2,9))
+// console.log(playGame(player1,player2,9))
 
 
 
